@@ -30,6 +30,8 @@ def Nmaxelements(list1, N):
         final_list.append(max1)
 
     return final_list
+
+file_a = open('/Users/sinanunver/Desktop/bottleneck_dim0_max5.txt', 'w')
 for x in range(10):
     y = x+1
 
@@ -56,7 +58,7 @@ for x in range(10):
 
     plt.plot(pfa)
     plt.plot(pfb)
-    plt.suptitle('Aort ' + str(y) + '-dim 0 homology')
+    # plt.suptitle('Aort ' + str(y) + '-dim 0 homology')
     # plt.show()
 
 
@@ -109,4 +111,6 @@ for x in range(10):
         plt.suptitle(current1_short + ' and ' + current2_short)
         # plt.savefig(file_bottleneck)
         # plt.show()
-
+        file_a.write('The dim 0 bottleneck distance between diagram ' + current1_short +
+              ' and ' + current2_short + ' is '+str(distance_bottleneck) + '\n')
+file_a.close()

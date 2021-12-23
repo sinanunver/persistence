@@ -30,6 +30,8 @@ def Nmaxelements(list1, N):
         final_list.append(max1)
 
     return final_list
+
+file_b = open('/Users/sinanunver/Desktop/bottleneck_dim1_max5.txt', 'w')
 for x in range(10):
     y = x+1
 
@@ -113,5 +115,7 @@ for x in range(10):
         plt.suptitle(current1_short + ' and '+ current2_short)
         # plt.savefig(file_bottleneck)
         # plt.show()
+        file_b.write('The dim 1 bottleneck distance between diagram ' + current1_short +
+                     ' and ' + current2_short + ' is ' + str(distance_bottleneck) + '\n')
 
-
+file_b.close()
