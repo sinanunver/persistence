@@ -6,7 +6,7 @@ import ripser
 import persim
 import sys
 import teaspoon.TDA.Draw as Draw
-
+import shutil
 
 
 def sorted_alphanumeric(data):
@@ -30,10 +30,13 @@ def Nmaxelements(list1, N):
         final_list.append(max1)
 
     return final_list
+
+# file_a = open('/Users/sinanunver/Desktop/bottleneck_dim0_max5.txt', 'w')
 for x in range(10):
     y = x+1
 
     path = '/Users/sinanunver/OneDrive - Koc Universitesi/DeepLearning/aort/xy-of-boundary-points/' + str(y)
+    path_image = '/Users/sinanunver/OneDrive - Koc Universitesi/DeepLearning/aort/images-of-boundary-points/'
 
     files = os.listdir(path)
     sorted_files = sorted_alphanumeric(files)
@@ -56,7 +59,7 @@ for x in range(10):
 
     plt.plot(pfa)
     plt.plot(pfb)
-    plt.suptitle('Aort ' + str(y) + '-dim 0 homology')
+    # plt.suptitle('Aort ' + str(y) + '-dim 0 homology')
     # plt.show()
 
 
@@ -79,6 +82,10 @@ for x in range(10):
         file2 = sorted_files[ind_pfa_5[i]+1]
         current1 = os.path.join(path, file1)
         current2 = os.path.join(path, file2)
+        current1_image = os.path.join(path_image, file1).replace('txt', 'png')
+        current2_image = os.path.join(path_image, file2).replace('txt', 'png')
+        shutil.copy(current1_image, '/Users/sinanunver/Desktop/dim0-max5/' + str(j))
+        shutil.copy(current2_image, '/Users/sinanunver/Desktop/dim0-max5/' + str(j))
         P1 = np.loadtxt(current1, delimiter=',')
         P2 = np.loadtxt(current2, delimiter=',')
         diagrams1 = ripser.ripser(P1)['dgms']
@@ -89,8 +96,8 @@ for x in range(10):
         current2_short = current2.replace(
             '/Users/sinanunver/OneDrive - Koc Universitesi/DeepLearning/aort/xy-of-boundary-points', '').replace(
             '_bnd.txt', '').replace('/','').replace('aorta','')
-        print('The dim 0 bottleneck distance between diagram ' + current1_short +
-              ' and ' + current2_short + ' is', distance_bottleneck)
+        # print('The dim 0 bottleneck distance between diagram ' + current1_short +
+        #       ' and ' + current2_short + ' is', distance_bottleneck)
         plt.subplot(1, 2, 1)
         plt.scatter(P1[:, 0], P1[:, 1], label='P1')
         plt.subplot(1, 2, 2)
@@ -109,4 +116,6 @@ for x in range(10):
         plt.suptitle(current1_short + ' and ' + current2_short)
         # plt.savefig(file_bottleneck)
         # plt.show()
-
+        # file_a.write('The dim 0 bottleneck distance between diagram ' + current1_short +
+        #       ' and ' + current2_short + ' is '+str(distance_bottleneck) + '\n')
+# file_a.close()
