@@ -57,7 +57,7 @@ for x in range(10):
     plt.plot(pfa)
     plt.plot(pfb)
     plt.suptitle('Aort ' + str(y) + '-dim 0 homology')
-    plt.show()
+    # plt.show()
 
 
     pfa_5 = Nmaxelements(pfa_copy, 5)
@@ -97,7 +97,7 @@ for x in range(10):
         plt.scatter(P2[:, 0], P2[:, 1], label='P2')
         plt.suptitle(current1_short + ' and ' + current2_short)
         # plt.savefig(file_scatter)
-        plt.show()
+        # plt.show()
         plt.subplot(1, 3, 1)
         Draw.drawDgm(diagrams1[0])
 
@@ -108,5 +108,5 @@ for x in range(10):
         persim.bottleneck_matching(diagrams1[0], diagrams2[0], matching, labels=['diag1', 'diag2'])
         plt.suptitle(current1_short + ' and ' + current2_short)
         # plt.savefig(file_bottleneck)
-        plt.show()
+        # plt.show()
 

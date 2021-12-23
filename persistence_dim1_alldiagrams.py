@@ -59,7 +59,7 @@ for x in range(10):
     plt.suptitle('Aort '+ str(y)+ '-dim 1 homology' )
     # file_histogram = 'figures-dim1_' + str(y) + '_histogram'+ '.png'
     # plt.savefig(file_histogram)
-    plt.show()
+    # plt.show()
 
 
 
@@ -101,7 +101,7 @@ for x in range(10):
         plt.scatter(P2[:, 0], P2[:, 1], label='P2')
         plt.suptitle(current1_short + ' and '+ current2_short)
         # plt.savefig(file_scatter)
-        plt.show()
+        # plt.show()
         plt.subplot(1, 3, 1)
         Draw.drawDgm(diagrams1[1])
 
@@ -112,6 +112,6 @@ for x in range(10):
         persim.bottleneck_matching(diagrams1[1], diagrams2[1], matching, labels=['diag1', 'diag2'])
         plt.suptitle(current1_short + ' and '+ current2_short)
         # plt.savefig(file_bottleneck)
-        plt.show()
+        # plt.show()
 
 
