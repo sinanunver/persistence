@@ -1,3 +1,10 @@
+# This is the exact copy of the code above named
+# 'persistence2_graph_of bottleneck_dim0' but now
+# for dimension zero persistent homology
+
+
+
+
 import matplotlib.pyplot as plt
 import os
 import re

@@ -1,3 +1,11 @@
+# This code below reads from '.../xy-of-boundary-points/...' and '.../res/res1a/...'
+# to find the 5 maximum bottleneck distances and then plot the corresponding persistence
+# diagrams. These are only done for dim 0 and only for the image 1. I changed this 9 times
+# to get the data for the other images. It is probably better to do a for loop for this.
+# I copied the code and did the same for dim 1 homology. This can also be simultaneously did with a
+# loop.
+
+
 import matplotlib.pyplot as plt
 import os
 import re
@@ -14,6 +22,9 @@ def sorted_alphanumeric(data):
     alphanum_key = lambda key: [ convert(c) for c in re.split('([0-9]+)', key) ]
     return sorted(data, key=alphanum_key)
 
+
+# This function finds the maximum N values in a list. This is used to find the largest
+# 5 bottleneck distances between consecutive images of a patient.
 
 def Nmaxelements(list1, N):
     final_list = []
@@ -41,6 +52,8 @@ for line in open('/Users/sinanunver/Desktop/res/res1a.txt', 'r'):
     pa.append(line)
 pfa = [float(x) for x in pa]
 
+# A copy is used since the for loop below seems to change the file.
+
 pfa_copy = pfa.copy()
 
 
@@ -49,11 +62,15 @@ for line in open('/Users/sinanunver/Desktop/res/res1b.txt', 'r'):
     pb.append(line)
 pfb = [float(x) for x in pb]
 
+
+# A copy is used since the for loop below seems to change the file.
+
 pfb_copy = pfb.copy()
 
 plt.plot(pfa)
 plt.plot(pfb)
 plt.show()
+
 
 
 pfa_5 = Nmaxelements(pfa_copy, 5)
@@ -66,6 +83,10 @@ pfb_5 = Nmaxelements(pfb_copy, 5)
 ind_pfa_5 = [i for i, x in enumerate(pfa) if x in pfa_5]
 ind_pfb_5 = [i for i, x in enumerate(pfb) if x in pfb_5]
 
+
+# The loop below re-plots the maximum distance images, their persistence diagrams and
+# the matching between the persistence diagrams that give the bottleneck distance. These
+# are all done only for dim 0 persistence.
 
 for i in range(5):
     file1 = sorted_files[ind_pfa_5[i]]
