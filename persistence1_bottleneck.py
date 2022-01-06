@@ -2,7 +2,8 @@
 # distances of the persistence diagrams of the consecutive images in the file. For example
 # for image 1, we write the  one for dim 0 to the file .../res1a/... and the dimension 1 to
 # .../res1b/... Rather than doing a for loop for 10x2=20 I had to run the program 20 times
-# changing the file names by hand. We do not consider homology of degree greater than 1.
+# changing the file names by hand. We do not consider homology of degree greater than 1. Higher
+# dimensional homology is not relevant for us.
 
 
 import numpy as np
