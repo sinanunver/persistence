@@ -1,9 +1,19 @@
+# Here we collect data from '.../xy-of-boundary-points/...' and write the bottleneck
+# distances of the persistence diagrams of the consecutive images in the file. For example
+# for image 1, we write the  one for dim 0 to the file .../res1a/... and the dimension 1 to
+# .../res1b/... Rather than doing a for loop for 10x2=20 I had to run the program 20 times
+# changing the file names by hand. We do not consider homology of degree greater than 1.
+
+
 import numpy as np
 import ripser
 import persim
 import os
 import sys
 import re
+
+# This function is for sorting the names of the images so we get the consecutive images for the
+# same patient.
 
 def sorted_alphanumeric(data):
     convert = lambda text: int(text) if text.isdigit() else text.lower()
