@@ -1,3 +1,6 @@
+# This code makes a graph of all the bottleneck distances for dim 0 and dim 1 for a
+#     particular patient. The largest five distances are marked with an 'x'
+
 import matplotlib.pyplot as plt
 
 
