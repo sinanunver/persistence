@@ -1,6 +1,9 @@
 # This code gives a plot of dim 0 and dim 1 bottlenecks for two figures at the same time in plot form. The answer is
 #     written on bottleneck_plot_double file.
 
+
+
+
 import matplotlib.pyplot as plt
 
 
