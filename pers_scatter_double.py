@@ -1,3 +1,6 @@
+# This code gives a plot of dim 0 and dim 1 bottlenecks for two figures at the same time in scatter form. The answer is
+#     written on bottleneck_scatter_double file. The largest 5 distances are marked with an 'x'
+
 import matplotlib.pyplot as plt
 
 
