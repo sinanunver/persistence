@@ -1,3 +1,10 @@
+# This code writes the maximum 5 bottleneck distances in a file for dim 1 homology. The
+# name of the file is '/Users/sinanunver/Desktop/bottleneck_dim1_max5.txt'. The code also
+# copies the images from different patients to the same file for the largest 5 bottleneck distances. These
+#     are all for dim 1 homology.
+
+
+
 import matplotlib.pyplot as plt
 import os
 import re
