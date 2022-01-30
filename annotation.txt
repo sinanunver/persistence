@@ -1,0 +1,356 @@
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_43_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_50_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_55_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_60_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_65_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_70_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_75_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_81_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_86_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_91_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_96_bnd.txt: {2, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_101_bnd.txt: {2, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_104_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_109_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_114_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_115_bnd.txt: {2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_116_bnd.txt: {2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_119_bnd.txt: {8, 2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_123_bnd.txt: {8, 2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_127_bnd.txt: {8, 9, 2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_131_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_136_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_141_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_146_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_151_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_156_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_161_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_166_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_171_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_174_bnd.txt: {0, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_176_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_181_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_186_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_191_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_196_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_201_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_206_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta01_212_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_83_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_88_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_93_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_98_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_103_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_108_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_113_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_118_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_120_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_123_bnd.txt: {2, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_127_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_132_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_136_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_141_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_146_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_149_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_156_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_161_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_166_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_171_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_176_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_181_bnd.txt: {8, 9, 4, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_186_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_191_bnd.txt: {0, 5, 6, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_196_bnd.txt: {0, 5, 6, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_201_bnd.txt: {0, 5, 6, 7, 8}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_206_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_211_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_216_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_221_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_226_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_231_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_236_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta02_241_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_84_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_89_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_94_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_99_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_104_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_109_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_114_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_119_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_124_bnd.txt: {2, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_129_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_134_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_139_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_144_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_149_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_154_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_159_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_164_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_169_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_174_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_179_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_184_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_189_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_194_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_199_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_204_bnd.txt: {8, 9, 4, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_209_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_214_bnd.txt: {0, 5, 6, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_219_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_224_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_229_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_234_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_239_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_244_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta03_249_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_67_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_72_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_77_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_82_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_87_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_92_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_97_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_102_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_107_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_112_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_117_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_122_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_127_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_132_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_137_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_142_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_147_bnd.txt: {9, 2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_152_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_157_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_162_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_167_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_172_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_177_bnd.txt: {8, 9, 4, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_182_bnd.txt: {8, 9, 4, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_187_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_192_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_197_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_202_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_207_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_212_bnd.txt: {0, 5, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_217_bnd.txt: {0, 5, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_222_bnd.txt: {0, 5, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_227_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_232_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_237_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta04_242_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_55_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_60_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_65_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_70_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_75_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_80_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_85_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_90_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_95_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_100_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_105_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_110_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_115_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_120_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_125_bnd.txt: {2, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_130_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_135_bnd.txt: {2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_140_bnd.txt: {2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_145_bnd.txt: {2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_150_bnd.txt: {8, 2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_155_bnd.txt: {8, 2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_160_bnd.txt: {8, 9, 2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_165_bnd.txt: {8, 9, 2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_170_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_175_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_180_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_185_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_190_bnd.txt: {5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_195_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_200_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_205_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_208_bnd.txt: {7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_210_bnd.txt: {0, 5, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_215_bnd.txt: {0, 5, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_220_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_225_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_230_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_235_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_240_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta05_245_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_54_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_59_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_64_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_69_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_74_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_79_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_84_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_89_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_94_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_99_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_104_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_109_bnd.txt: {2, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_114_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_119_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_124_bnd.txt: {2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_129_bnd.txt: {2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_134_bnd.txt: {8, 2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_139_bnd.txt: {8, 2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_144_bnd.txt: {8, 2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_149_bnd.txt: {8, 9, 2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_154_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_159_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_164_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_169_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_174_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_179_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_184_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_189_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_194_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_199_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_204_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_209_bnd.txt: {5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_214_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_219_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_224_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_229_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_234_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_239_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_244_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta06_249_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_78_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_83_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_88_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_93_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_98_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_103_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_108_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_113_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_118_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_123_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_128_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_133_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_138_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_143_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_148_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_153_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_158_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_163_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_168_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_173_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_178_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_183_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_188_bnd.txt: {8, 9, 4, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_193_bnd.txt: {8, 9, 4, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_198_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_203_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_208_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_213_bnd.txt: {0, 5, 6, 7, 8}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_218_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_223_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_228_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_233_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta07_238_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_95_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_100_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_105_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_110_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_115_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_120_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_125_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_130_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_135_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_140_bnd.txt: {2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_145_bnd.txt: {2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_150_bnd.txt: {2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_155_bnd.txt: {8, 0, 4, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_160_bnd.txt: {8, 0, 4, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_165_bnd.txt: {0, 4, 6, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_170_bnd.txt: {0, 4, 6, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_175_bnd.txt: {0, 5, 6, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_180_bnd.txt: {0, 5, 6, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_185_bnd.txt: {0, 5, 6, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_190_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_195_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_200_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_205_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_210_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_215_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_220_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_225_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_230_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_235_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_240_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_245_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta08_250_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_85_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_90_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_95_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_100_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_105_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_110_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_115_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_120_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_125_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_130_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_135_bnd.txt: {2, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_140_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_145_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_150_bnd.txt: {2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_155_bnd.txt: {2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_160_bnd.txt: {8, 2, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_165_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_170_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_175_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_180_bnd.txt: {8, 9, 4, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_185_bnd.txt: {8, 9, 4, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_190_bnd.txt: {8, 9, 4, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_195_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_200_bnd.txt: {5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_205_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_210_bnd.txt: {0, 5, 6, 7, 8}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_215_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_220_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_225_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_230_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_235_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_240_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_245_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta09_250_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_65_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_70_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_75_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_80_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_85_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_90_bnd.txt: {1, 3}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_95_bnd.txt: {1, 2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_100_bnd.txt: {1, 2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_105_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_110_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_115_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_120_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_125_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_130_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_135_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_140_bnd.txt: {2}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_145_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_150_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_155_bnd.txt: {8, 9, 4}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_160_bnd.txt: {8, 9, 4, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_165_bnd.txt: {8, 9, 4, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_170_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_175_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_180_bnd.txt: {8, 9, 5, 6}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_185_bnd.txt: {5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_190_bnd.txt: {5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_195_bnd.txt: {0, 5, 6, 7, 8, 9}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_200_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_205_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_210_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_215_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_220_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_225_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_230_bnd.txt: {8, 0, 5, 7}
+/Users/sinanunver/Desktop/xy-of-boundary-points-classes_copy/aorta10_235_bnd.txt: {8, 0, 5, 7}
