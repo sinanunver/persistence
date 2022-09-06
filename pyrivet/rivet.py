@@ -1,6 +1,6 @@
 import time
 
-from . import barcode
+from pyrivet import barcode
 import subprocess
 import shlex
 import fractions
