@@ -5,4 +5,5 @@ import numpy as np
 import os
 
 rivet_location = '/Users/sinanunver/Documents/GitHub/persistence/pyrivet' #Might be in a different location for you
-print(os.listdir(rivet_location + '/aspirin-ZINC0000000000053.sdf.txt'))
+
+rivet.compute_file(rivet_location + '/aspirin-ZINC000000000053.sdf.txt',homology=1, x=20, y=20)
